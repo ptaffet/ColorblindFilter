@@ -10,21 +10,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealtimeFilterDemo", "RealtimeFilterDemo\RealtimeFilterDemo.csproj", "{71061D7F-C8D1-42C0-822A-89C1296E0FBA}"
 EndProject
 Global
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 4
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://philiptestingtfs.visualstudio.com/defaultcollection
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = CustomEffectNative\\CustomEffectNative.vcxproj
-		SccProjectName1 = CustomEffectNative
-		SccLocalPath1 = CustomEffectNative
-		SccProjectUniqueName2 = CustomEffectNativeNeonOptimized\\CustomEffectNativeNeonOptimized.vcxproj
-		SccProjectName2 = CustomEffectNativeNeonOptimized
-		SccLocalPath2 = CustomEffectNativeNeonOptimized
-		SccProjectUniqueName3 = RealtimeFilterDemo\\RealtimeFilterDemo.csproj
-		SccProjectName3 = RealtimeFilterDemo
-		SccLocalPath3 = RealtimeFilterDemo
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Debug|ARM = Debug|ARM
